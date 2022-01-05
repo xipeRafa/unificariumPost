@@ -3,17 +3,6 @@ body{
       margin: 0;
       padding: 0;
 }
-
-.menu{
-      display: flex;
-      justify-content: space-evenly;
-}
-
-.menu>button{
-      background-color: transparent;
-      color: white;
-}
-
 .movil{
       margin: 100px 0;
       display: flex;
